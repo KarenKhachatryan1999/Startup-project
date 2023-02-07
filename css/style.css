@@ -483,7 +483,7 @@ header {
   color: white;
 }
 
-.section-title ul li{
+.section-title ul li {
   padding: 10px;
   cursor: pointer;
 }
@@ -741,7 +741,7 @@ header {
 .clients-logos {
   justify-content: center;
   gap: 50px;
-  margin-bottom: 50px ;
+  margin-bottom: 50px;
 }
 
 .layer-items img {
@@ -990,7 +990,10 @@ footer {
   display: none;
 }
 
-.slick-arrow.slick-prev {
+.prev_arrow {
+  display: flex;
+  justify-content: center;
+  align-items: center;
   color: white;
   font-size: 30px;
   width: 40px;
@@ -1001,9 +1004,13 @@ footer {
   top: 105px;
   background: #8f8f8f;
   border: none;
+  cursor: pointer;
 }
 
-.slick-arrow.slick-next {
+.next_arrow {
+  display: flex;
+  justify-content: center;
+  align-items: center;
   color: white;
   font-size: 30px;
   width: 40px;
@@ -1014,12 +1021,13 @@ footer {
   top: 105px;
   background: #8f8f8f;
   border: none;
+  cursor: pointer;
 }
 
-.slick-arrow.slick-prev:hover {
+.prev_arrow:hover {
   background-color: #c0301c;
 }
 
-.slick-arrow.slick-next:hover {
+.next_arrow:hover {
   background-color: #c0301c;
 }

@@ -1,9 +1,9 @@
 @media (max-width: 1024px) {
-  .slick-arrow.slick-prev {
+  .prev_arrow {
     top: 105px;
   }
 
-  .slick-arrow.slick-next {
+  .next_arrow {
     top: 105px;
   }
 
@@ -13,11 +13,11 @@
 }
 
 @media (max-width: 800px) {
-  .slick-arrow.slick-prev {
+  .prev_arrow {
     top: 75px;
   }
 
-  .slick-arrow.slick-next {
+  .next_arrow {
     top: 75px;
   }
 
@@ -111,11 +111,11 @@
     margin-bottom: 20px;
   }
 
-  .slick-arrow.slick-prev {
+  .prev_arrow {
     top: 115px;
   }
 
-  .slick-arrow.slick-next {
+  .next_arrow {
     top: 115px;
   }
 
@@ -153,11 +153,11 @@
 }
 
 @media (max-width: 600px) {
-  .slick-arrow.slick-prev {
+  .prev_arrow {
     top: 85px;
   }
 
-  .slick-arrow.slick-next {
+  .next_arrow {
     top: 85px;
   }
 
@@ -275,11 +275,11 @@
     margin: auto;
   }
 
-  .slick-arrow.slick-prev {
+  .prev_arrow {
     top: 140px;
   }
 
-  .slick-arrow.slick-next {
+  .next_arrow {
     top: 140px;
   }
 
@@ -324,11 +324,11 @@
 }
 
 @media (max-width: 400px) {
-  .slick-arrow.slick-prev {
+  .prev_arrow {
     top: 115px;
   }
 
-  .slick-arrow.slick-next {
+  .next_arrow {
     top: 115px;
   }
 
@@ -425,11 +425,11 @@
     margin: auto;
   }
 
-  .slick-arrow.slick-prev {
+  .prev_arrow {
     top: 105px;
   }
 
-  .slick-arrow.slick-next {
+  .next_arrow {
     top: 105px;
   }
 
