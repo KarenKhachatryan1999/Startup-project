@@ -465,4 +465,8 @@
     font-size: 13px;
     padding: 5px;
   }
+
+  .label-form p {
+    left: 45px;
+  }
 }
