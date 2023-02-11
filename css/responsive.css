@@ -263,6 +263,7 @@
   .input-container input {
     width: 100%;
     margin-bottom: 20px;
+    padding: 20px;
   }
 
   .section-title p {
@@ -403,6 +404,7 @@
 
   .input-container input {
     width: 100%;
+    padding: 20px;
   }
 
   .submit-container {
