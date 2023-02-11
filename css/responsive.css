@@ -366,6 +366,10 @@
     font-size: 14px;
     padding: 5px;
   }
+
+  .label-form p {
+    left: 57.5px;
+  }
 }
 
 @media (max-width: 381px) {
