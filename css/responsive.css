@@ -370,6 +370,10 @@
   .label-form p {
     left: 57.5px;
   }
+
+  .input-container input {
+    padding: 20px;
+  }
 }
 
 @media (max-width: 381px) {
